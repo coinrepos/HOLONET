@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Holonet Service Dashboard</title>
+    <script>
+        function fetchAlerts() {
+            fetch('/alerts')
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('alertContent').innerText = data.alerts.join("\n");
+                });
+        }
+
+        setInterval(fetchAlerts, 5000);  // Auto-update alerts every 5 seconds
+    </script>
+</head>
+<body>
+    <h1>Holonet Service Dashboard</h1>
+    <div>
+        <h2>Service Alerts</h2>
+        <pre id="alertContent">No alerts yet.</pre>
+    </div>
+</body>
+</html>

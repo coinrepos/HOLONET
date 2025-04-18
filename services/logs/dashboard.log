@@ -1,0 +1,66 @@
+2025-03-16 06:03:36,592 -  * Debugger is active!
+2025-03-16 06:03:36,599 -  * Debugger PIN: 137-257-371
+2025-03-16 06:03:36,977 -  * Debugger is active!
+2025-03-16 06:03:36,983 -  * Debugger PIN: 137-257-371
+2025-03-16 06:03:36,997 -  * Debugger is active!
+2025-03-16 06:03:37,005 -  * Debugger PIN: 137-257-371
+2025-03-16 06:03:37,008 -  * Debugger is active!
+2025-03-16 06:03:37,015 -  * Debugger PIN: 137-257-371
+2025-03-16 06:04:08,135 - 127.0.0.1 - - [16/Mar/2025 06:04:08] "GET /status HTTP/1.1" 200 -
+2025-03-16 06:04:11,540 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://192.168.20.4:8050
+2025-03-16 06:04:11,541 - [33mPress CTRL+C to quit[0m
+2025-03-16 06:04:11,542 -  * Restarting with stat
+2025-03-16 06:04:11,941 -  * Debugger is active!
+2025-03-16 06:04:11,945 -  * Debugger PIN: 137-257-371
+2025-03-16 06:04:42,149 - 127.0.0.1 - - [16/Mar/2025 06:04:42] "GET / HTTP/1.1" 200 -
+2025-03-16 06:04:43,650 - 127.0.0.1 - - [16/Mar/2025 06:04:43] "GET /status HTTP/1.1" 200 -
+2025-03-16 06:04:48,791 - 127.0.0.1 - - [16/Mar/2025 06:04:48] "GET /status HTTP/1.1" 200 -
+2025-03-16 06:04:53,782 - 127.0.0.1 - - [16/Mar/2025 06:04:53] "GET /status HTTP/1.1" 200 -
+2025-03-16 06:04:58,814 - 127.0.0.1 - - [16/Mar/2025 06:04:58] "GET /status HTTP/1.1" 200 -
+2025-03-16 06:05:03,806 - 127.0.0.1 - - [16/Mar/2025 06:05:03] "GET /status HTTP/1.1" 200 -
+2025-03-16 06:05:08,694 - 127.0.0.1 - - [16/Mar/2025 06:05:08] "GET /status HTTP/1.1" 200 -
+2025-03-16 06:05:13,783 - 127.0.0.1 - - [16/Mar/2025 06:05:13] "GET /status HTTP/1.1" 200 -
+2025-03-16 06:05:18,855 - 127.0.0.1 - - [16/Mar/2025 06:05:18] "GET /status HTTP/1.1" 200 -
+2025-03-16 06:05:23,546 - 127.0.0.1 - - [16/Mar/2025 06:05:23] "GET /status HTTP/1.1" 200 -
+2025-03-16 06:05:28,645 - 127.0.0.1 - - [16/Mar/2025 06:05:28] "GET /status HTTP/1.1" 200 -
+2025-03-16 06:26:48,526 -  * Detected change in 'C:\\Projects\\HOLONET\\services\\dashboard\\dashboard.py', reloading
+2025-03-16 06:26:48,594 -  * Detected change in 'C:\\Projects\\HOLONET\\services\\dashboard\\dashboard.py', reloading
+2025-03-16 06:26:48,599 -  * Detected change in 'C:\\Projects\\HOLONET\\services\\dashboard\\dashboard.py', reloading
+2025-03-16 06:26:48,802 -  * Detected change in 'C:\\Projects\\HOLONET\\services\\dashboard\\dashboard.py', reloading
+2025-03-16 06:26:48,823 -  * Detected change in 'C:\\Projects\\HOLONET\\services\\dashboard\\dashboard.py', reloading
+2025-03-16 06:26:48,875 -  * Restarting with stat
+2025-03-16 06:26:49,294 -  * Debugger is active!
+2025-03-16 06:26:49,301 -  * Debugger PIN: 137-257-371
+2025-03-16 06:26:49,480 -  * Debugger is active!
+2025-03-16 06:26:49,494 -  * Debugger PIN: 137-257-371
+2025-03-16 06:26:49,518 -  * Debugger is active!
+2025-03-16 06:26:49,526 -  * Debugger PIN: 137-257-371
+2025-03-16 06:26:49,761 -  * Debugger is active!
+2025-03-16 06:26:49,771 -  * Debugger PIN: 137-257-371
+2025-03-16 06:26:49,817 -  * Debugger is active!
+2025-03-16 06:26:49,828 -  * Debugger PIN: 137-257-371
+2025-03-16 06:27:34,091 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://192.168.20.4:8050
+2025-03-16 06:27:34,091 - [33mPress CTRL+C to quit[0m
+2025-03-16 06:27:34,093 -  * Restarting with stat
+2025-03-16 06:27:34,565 -  * Debugger is active!
+2025-03-16 06:27:34,569 -  * Debugger PIN: 137-257-371
+2025-03-16 06:27:46,575 - 127.0.0.1 - - [16/Mar/2025 06:27:46] "GET / HTTP/1.1" 200 -
+2025-03-16 06:27:52,240 - 127.0.0.1 - - [16/Mar/2025 06:27:52] "GET /logs HTTP/1.1" 200 -
+2025-03-16 06:27:57,247 - 127.0.0.1 - - [16/Mar/2025 06:27:57] "GET /logs HTTP/1.1" 200 -
+2025-03-16 06:28:02,221 - 127.0.0.1 - - [16/Mar/2025 06:28:02] "GET /logs HTTP/1.1" 200 -
+2025-03-16 06:28:07,223 - 127.0.0.1 - - [16/Mar/2025 06:28:07] "GET /logs HTTP/1.1" 200 -
+2025-03-16 06:28:12,214 - 127.0.0.1 - - [16/Mar/2025 06:28:12] "GET /logs HTTP/1.1" 200 -
+2025-03-16 06:43:10,529 -  * Detected change in 'C:\\Projects\\HOLONET\\services\\dashboard\\dashboard.py', reloading
+2025-03-16 06:43:10,531 -  * Detected change in 'C:\\Projects\\HOLONET\\services\\dashboard\\dashboard.py', reloading
+2025-03-16 06:43:10,810 -  * Detected change in 'C:\\Projects\\HOLONET\\services\\dashboard\\dashboard.py', reloading
+2025-03-16 06:43:10,813 -  * Detected change in 'C:\\Projects\\HOLONET\\services\\dashboard\\dashboard.py', reloading
+2025-03-16 06:43:10,829 -  * Detected change in 'C:\\Projects\\HOLONET\\services\\dashboard\\dashboard.py', reloading
+2025-03-16 06:43:10,835 -  * Detected change in 'C:\\Projects\\HOLONET\\services\\dashboard\\dashboard.py', reloading
+2025-03-16 06:43:10,889 -  * Restarting with stat
+2025-03-16 06:43:10,941 -  * Restarting with stat

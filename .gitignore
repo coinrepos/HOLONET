@@ -1,0 +1,26 @@
+# Core ignore list
+*.fbx
+*.glb
+*.mp4
+*.ckpt
+*.data
+*.index
+*.onnx
+*.h5
+*.exe
+*.zip
+*.tar.gz
+*.pkl
+
+# Python-related
+__pycache__/
+.env
+.venv/
+venv/
+*.pyc
+
+# Output/model/data folders
+output_files/
+services/tensor_holography/model/
+services/tensor_holography/input/
+services/tensor_holography/data/

@@ -1,0 +1,18 @@
+{
+    "scene": "Show me a dragon fight!",
+    "files": [
+        {
+            "name": "Show_me_a_dragon_fight!.fbx",
+            "size": 41,
+            "path": "C:\\Projects\\HOLONET\\storage\\generated_scenes\\Show_me_a_dragon_fight!.fbx",
+            "created": "2025-03-15 03:17:10.342741"
+        },
+        {
+            "name": "Show_me_a_dragon_fight!.glb",
+            "size": 41,
+            "path": "C:\\Projects\\HOLONET\\storage\\generated_scenes\\Show_me_a_dragon_fight!.glb",
+            "created": "2025-03-15 03:17:10.342741"
+        }
+    ],
+    "status": "Scene successfully generated!"
+}

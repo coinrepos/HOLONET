@@ -1,0 +1,18 @@
+{
+    "scene": "Show me a futuristic battle!",
+    "files": [
+        {
+            "name": "Show_me_a_futuristic_battle!.fbx",
+            "size": 46,
+            "path": "C:\\Projects\\HOLONET\\storage\\generated_scenes\\Show_me_a_futuristic_battle!.fbx",
+            "created": "2025-03-15 04:16:32.986896"
+        },
+        {
+            "name": "Show_me_a_futuristic_battle!.glb",
+            "size": 46,
+            "path": "C:\\Projects\\HOLONET\\storage\\generated_scenes\\Show_me_a_futuristic_battle!.glb",
+            "created": "2025-03-15 04:16:32.986896"
+        }
+    ],
+    "status": "Scene successfully generated!"
+}

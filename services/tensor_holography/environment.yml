@@ -1,0 +1,11 @@
+name: tensorholo
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip:
+    - opencv-python
+    - onnx
+    - tf2onnx
+    - numpy==1.18.5
+

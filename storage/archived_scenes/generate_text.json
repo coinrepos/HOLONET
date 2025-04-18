@@ -1,0 +1,9 @@
+{
+    "user_request": "Show me a futuristic city!",
+    "scene": "Mock: Generated 3D scene for Show me a futuristic city!",
+    "files": [
+        "Show_me_a_futuristic_city!.fbx",
+        "Show_me_a_futuristic_city!.glb"
+    ],
+    "status": "Scene successfully generated!"
+}
